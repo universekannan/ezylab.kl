@@ -12,6 +12,7 @@
 	<link href="{!! asset('assets/plugins/highcharts/css/highcharts-white.css') !!}" rel="stylesheet" />
 	<link href="{!! asset('assets/plugins/metismenu/css/metisMenu.min.css') !!}" rel="stylesheet" />
 	<link href="{!! asset('assets/plugins/vectormap/jquery-jvectormap-2.0.2.css') !!}" rel="stylesheet" />
+	<link href="{!! asset('assets/plugins/bs-stepper/css/bs-stepper.css') !!}" rel="stylesheet" />
 	<!-- loader-->
 	{{-- <link href="{!! asset('assets/css/pace.min.css') !!}" rel="stylesheet" />
 	<script src="{!! asset('assets/js/pace.min.js') !!}"></script> --}}
@@ -45,6 +46,8 @@
 	<script src="{!! asset('assets/js/jquery.min.js') !!}"></script>
 	<script src="{!! asset('assets/plugins/simplebar/js/simplebar.min.js') !!}"></script>
 	<script src="{!! asset('assets/plugins/metismenu/js/metisMenu.min.js') !!}"></script>
+	<script src="{!! asset('assets/plugins/bs-stepper/js/bs-stepper.min.js') !!}"></script>
+	<script src="{!! asset('assets/plugins/bs-stepper/js/main.js') !!}"></script>
 	<script src="{!! asset('assets/plugins/perfect-scrollbar/js/perfect-scrollbar.js') !!}"></script>
 	<script src="{!! asset('assets/plugins/vectormap/jquery-jvectormap-2.0.2.min.js') !!}"></script>
 	<script src="{!! asset('assets/plugins/vectormap/jquery-jvectormap-world-mill-en.js') !!}"></script>

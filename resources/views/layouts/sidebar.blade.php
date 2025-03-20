@@ -30,6 +30,19 @@
 						</li>
 					</ul>
 				</li>
+				<li>
+					<a href="javascript:;" class="has-arrow">
+						<div class="parent-icon"><i class="lni lni-users"></i>
+						</div>
+						<div class="menu-title">patient</div>
+					</a>
+					<ul>
+						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						</li>
+						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						</li>
+					</ul>
+				</li>
 				
 				<li>
 					<a href="javascript:;" class="has-arrow">
@@ -38,9 +51,9 @@
 						<div class="menu-title">Admission</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>
 				</li>
@@ -52,9 +65,9 @@
 						<div class="menu-title">Billing</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>
 				</li>
@@ -66,9 +79,9 @@
 						<div class="menu-title">Pharmacy</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>
 				</li>
@@ -80,9 +93,9 @@
 						<div class="menu-title">Investigation</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>
 				</li>
@@ -94,9 +107,9 @@
 						<div class="menu-title">OT</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>
 				</li>
@@ -108,9 +121,9 @@
 						<div class="menu-title">MRD</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>				
 				<li>
@@ -120,9 +133,9 @@
 						<div class="menu-title">Setting</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>
 				</li>
@@ -134,9 +147,9 @@
 						<div class="menu-title">MIS</div>
 					</a>
 					<ul>
-						<li> <a href="{{ url('users') }}"><i class='bx bx-radio-circle'></i>Users</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>Users</a>
 						</li>
-						<li> <a href="{{ url('usertypes') }}"><i class='bx bx-radio-circle'></i>User Types</a>
+						<li> <a href="{{ url('') }}"><i class='bx bx-radio-circle'></i>User Types</a>
 						</li>
 					</ul>
 				</li>
